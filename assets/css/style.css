@@ -1,0 +1,33 @@
+.jumbotron {
+    background-color: salmon;
+    box-shadow: 10px 15px 5px #030202;
+}
+
+body {
+    background-image: url("https://pre00.deviantart.net/71af/th/pre/f/2015/183/7/4/train_station_by_llaren-d8zpyv3.png");
+}
+
+.panel-heading {
+    background-color: salmon;
+}
+
+.panel-body {
+    box-shadow: 10px 15px 5px #030202;
+}
+
+#trainName:hover {
+    background-color: salmon;
+}
+
+#trainDestination:hover {
+    background-color:  salmon;
+}
+
+#trainTime:hover {
+    background-color: salmon;
+}
+
+#trainFrequency:hover {
+    background-color: salmon;
+}
+
